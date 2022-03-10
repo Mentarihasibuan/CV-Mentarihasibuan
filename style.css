@@ -1,0 +1,215 @@
+.Jumbotron {
+  background-image: linear-gradient( 91.3deg,  rgba(135,174,220,1) 1.5%, rgba(255,255,255,1) 100.3% );
+}
+
+.tron{
+  color: rgb(255, 132, 97);
+}
+
+.name{
+  color: darkblue;
+}
+
+.Navbar{
+  background-image: linear-gradient( 91.3deg,  rgba(135,174,220,1) 1.5%, rgba(255,255,255,1) 100.3% );
+}
+
+.Gambar{
+  width: 300px; 
+  height: 300px; 
+  margin-bottom: 500px; 
+  margin-right: 570px;
+}
+
+.about{
+  background-color: rgb(255, 255, 255);
+}
+
+.aboutt{
+  color: black;
+}
+
+.bar{
+  height: 15px;
+}
+
+.avbar{
+  height: 15px;
+  margin-top: 5px;
+}
+
+.avbarr{
+  height: 15px;
+  margin-top: 35px;
+}
+
+.message{
+  background: rgba(9, 71, 143, 0.61);
+}
+
+.message h5{
+  color:#ffffff;
+}
+
+.message label{
+  color: blanchedalmond;
+}
+
+.skill{
+  margin-left: 50px;
+}
+
+.skiill{
+  margin-right: 50px;
+}
+
+.jskill{
+  margin-left: 80px;
+}
+
+.Counter{
+  font-size: 20px;
+}
+
+.contact{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  position: relative;
+  min-height: 10px;
+  padding: 50px 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-image: linear-gradient( 91.3deg,  rgba(135,174,220,1) 1.5%, rgba(255,255,255,1) 100.3% );
+}
+
+.tact{
+  margin-top: 20px;
+}
+.contact .content{
+  max-width: 800px;
+  text-align: center;
+}
+
+.contact .p{
+  font-weight: 500;
+  color: #fff;
+}
+
+.container{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.container .contactInfo{
+  width: 50%;
+  display: flex;
+  flex-direction: coloumn;
+}
+
+.container .contactInfo .box{
+  position: relative;
+  padding: 20px 0;
+  display: flex;
+}
+
+.Icon{
+  min-width: 60px;
+  height: 60px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20%;
+  font-size: 22px;
+}
+
+.wrapper {
+  height: 100vh;
+  background-image: linear-gradient( 91.3deg,  rgba(135,174,220,1) 1.5%, rgba(255,255,255,1) 100.3% );
+  width: 100%
+}
+
+.overlay {
+  width: 100%;
+  height: 100vh;
+  
+}
+
+.contact-us {
+  margin-top: 50px;
+  margin-bottom: 50px
+}
+
+.address {
+  margin-top: 14px;
+  margin-left: 10px
+
+}
+
+.address h5 {
+  color: #7B1FA2
+  
+}
+
+.icons {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #fff;
+  display: inline-block;
+  display: flex;
+  justify-content: center;
+  align-items: center
+}
+
+.icons i {
+  font-size: 20px
+}
+
+.forms {
+  padding: 20px
+}
+
+.inputs input {
+  margin-bottom: 13px;
+  border: none;
+  border-bottom: 2px solid #eee
+}
+
+.inputs input:focus {
+  margin-bottom: 13px;
+  border: none;
+  border-bottom: 2px solid #7B1FA2;
+  box-shadow: none
+}
+
+.inputs textarea {
+  margin-bottom: 13px;
+  border: none;
+  border-bottom: 2px solid #eee;
+  width: 100%;
+  resize: none
+}
+
+.inputs textarea:focus {
+  margin-bottom: 13px;
+  border: none;
+  border-bottom: 2px solid #7B1FA2;
+  box-shadow: none;
+  resize: none
+}
+
+.form-control {
+  padding: .375rem .25rem
+}
+
+.block{
+  background-color:rgb(2, 36, 99);
+}
